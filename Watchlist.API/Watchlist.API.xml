@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Watchlist.API</name>
+    </assembly>
+    <members>
+        <member name="M:Watchlist.API.Controllers.WatchlistMediaEntriesController.#ctor(Watchlist.API.DataServices.IWatchlistsRepository,AutoMapper.IMapper,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            ctor
+            </summary>
+            <param name="repository"></param>
+        </member>
+        <member name="M:Watchlist.API.Controllers.WatchlistsController.#ctor(Watchlist.API.DataServices.IWatchlistsRepository,AutoMapper.IMapper,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            ctor
+            </summary>
+            <param name="repository"></param>
+        </member>
+    </members>
+</doc>
